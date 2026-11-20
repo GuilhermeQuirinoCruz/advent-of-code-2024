@@ -6,4 +6,5 @@ Cargo.lock
 
 **/*.rs.bk
 
+template/
 input.txt
